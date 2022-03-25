@@ -1,6 +1,6 @@
 # Weddings Lore 💎
 Ficticious Website developed to simulating a company \
-responsible for organizing weddings around the world. \
+responsible for organizing weddings around the world.
 
 Live demo: (https://gitbiohazard.github.io/projects/WL/)
 
